@@ -1,0 +1,22 @@
+@media(max-width: 700px) {
+
+    .buttoncontainer{
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        top: 10px;
+        right: 50px;
+    }
+    .navlinks{
+        position: absolute;
+        top: 10px;
+        right: 10px;
+       
+    }
+    .longurl{
+        width: 300px;
+    }
+  }
+   span:hover{
+    cursor: pointer;
+  }
